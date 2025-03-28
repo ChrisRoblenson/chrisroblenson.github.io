@@ -4,7 +4,7 @@ title: WPMSummit
 description: Wonderful Team Meeting
 date: 2025-03-20 15:01:35 +0300
 author: Chris Roblenson
-image: '/images/11.jpg'
+image: '/images/app.png'
 tags: [App]
 toc: true
 ---
