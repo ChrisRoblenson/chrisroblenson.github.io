@@ -1,1 +1,6 @@
 
+#-------------------------------
+# Blog Section Settings
+blog:
+  enable: true
+  blog_title: Latest
