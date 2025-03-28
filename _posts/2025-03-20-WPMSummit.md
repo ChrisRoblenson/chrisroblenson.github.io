@@ -31,7 +31,7 @@ Stay on track with smart reminders so you never miss a meeting or deadline.
 End-to-end encryption ensures secure and private conversations, keeping your data safe.
 
 ## Why Choose WPMSummit?
-### No sign-up required for guests
-### Works on Wi-Fi, 4G, 5G—join from anywhere
-### Integrates with Slack, Trello, Asana, Zoom & more
-### Available on iPhone, iPad & Mac
+#### No sign-up required for guests
+#### Works on Wi-Fi, 4G, 5G—join from anywhere
+#### Integrates with Slack, Trello, Asana, Zoom & more
+#### Available on iPhone, iPad & Mac
